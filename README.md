@@ -19,6 +19,7 @@
  - Toast notifications
   
 ## 🖥️ Used Tecnologies
+ - [Vite](https://vitejs.dev/)
  - [ReactJs](https://reactjs.org/)
  - [Styled-Components](https://styled-components.com/)
  - [React Tostify](https://github.com/fkhadra/react-toastify)
